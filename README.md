@@ -7,9 +7,9 @@ Can be run typing
 
 Can be tried with netcat like this  
 
-    huseyinalb$ nc 127.0.0.1 8080
-    SET var1 huseyinmuseyin
+    oguzalb$ nc 127.0.0.1 8080
+    SET var1 oguzmoguz
     OK
     GET var1
-    huseyinmuseyin
+    oguzmoguz
 
